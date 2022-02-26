@@ -1,11 +1,11 @@
 <h1 align="center">
 Hi 👋, I am Khyati
 </h1>
-<p align="center"
-[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khyati-khetarpal-bb8733196/)   [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)   
-</p>
+<pre>
+[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&align=center)](https://www.linkedin.com/in/khyati-khetarpal-bb8733196/)&nbsp;[![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&align-center)](https://mail.google.com/mail/u/0/#inbox)   
+</pre>
 
- **Glad to see you here :smile:!**     ![](https://komarev.com/ghpvc/?username=learner2102&label=Vistors)
+ **Glad to see you here :smile:!**&nbsp;![](https://komarev.com/ghpvc/?username=learner2102&label=Vistors)
 
 I love programming , AI and travelling.
 
